@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Skills</h2>
 
 ###
 
@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
+  <img width="12" />   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
@@ -35,22 +35,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache logo"  />
-</div>
-
-###
-
-<h2 align="left">Platforms: </h2>
-
-###
-
-<div align="left">
-  <img src="https://img.jsdelivr.com/github.com/databricks.png" height="40" alt="r logo"  />
+  <img src="https://img.jsdelivr.com/github.com/databricks.png" height="40" alt="databricks logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" height="40" alt="python logo"  />
+  <img src="https://img.icons8.com/?size=100&id=0cRqPqlItA0E&format=png&color=000000" height="40" alt="spark logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" height="40" alt="pytorch logo"  />
+  <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" height="40" alt="powerbi logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=Rffi8qeb2fK5&format=png&color=000000" height="40" alt="pytorch logo"  />
+  <img src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" height="40" alt="looker logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=Rffi8qeb2fK5&format=png&color=000000" height="40" alt="streamlit logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=dFQ55kLSmeny&format=png&color=000000" height="40" alt="powerapps logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=kTTt25v6Drpd&format=png&color=000000" height="40" alt="powerautomate logo"  />
   <img width="12" />
 </div>
