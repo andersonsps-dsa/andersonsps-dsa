@@ -50,3 +50,11 @@
   <img src="https://img.icons8.com/?size=100&id=kTTt25v6Drpd&format=png&color=000000" height="40" alt="powerautomate logo"  />
   <img width="12" />
 </div>
+
+###
+
+<h2 align="left">Projects</h2>
+
+<p align="left"> ➲ Cluster: using PCA and K-Means with python <a href="https://github.com/andersonsps-dsa/Energy_Consumption_Customer_Segmentation/blob/main/Energy_Consumption_Customer_Segmentation.ipynb"> (Energy Consumption Customer Segmentation) </p>
+<p align="left"> ➲ Classification: using K-Nearest Neighbors <a href="https://github.com/andersonsps-dsa/Movie_Recommendation_Model/blob/main/README.md"> (Movie Recommendation Model) </p>
+
