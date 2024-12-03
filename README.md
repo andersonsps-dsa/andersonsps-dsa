@@ -55,6 +55,7 @@
 
 <h2 align="left">Projects</h2>
 
+<p align="left"> ➲ Neural Network: using PyTorch <a href= "https://github.com/andersonsps-dsa/Case_Plan_Anderson_SPSa/blob/main/README.md"> (Customer Service Analysis in the Online Environment) </p>
 <p align="left"> ➲ Cluster: using PCA and K-Means with python <a href="https://github.com/andersonsps-dsa/Energy_Consumption_Customer_Segmentation/blob/main/Energy_Consumption_Customer_Segmentation.ipynb"> (Energy Consumption Customer Segmentation) </p>
 <p align="left"> ➲ Classification: using K-Nearest Neighbors <a href="https://github.com/andersonsps-dsa/Movie_Recommendation_Model/blob/main/README.md"> (Movie Recommendation Model) </p>
 <p align="left"> ➲ Predict Models: using OLS and Poisson <a href="https://github.com/andersonsps-dsa/Predict_models_additional_employee/blob/main/README.md"> (Predictive Models with OLS & Poisson Regression) </p>
