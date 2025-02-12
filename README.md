@@ -56,7 +56,9 @@
 <p align="left">➲ <strong>Modelos Preditivos com Regressão OLS e Poisson</strong>: Previsão de demandas adicionais de funcionários. <a href="https://github.com/andersonsps-dsa/Predict_models_additional_employee/blob/main/README.md">Ver projeto</a></p>
 <p align="left">➲ <strong>Dashboard com Streamlit</strong>: Análise de viagens de Uber. <a href="https://github.com/andersonsps-dsa/uber_pickup/blob/main/README.md">Ver projeto</a></p>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andersonsps-dsa&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+>  ### Linguagens mais usadas nos projetos:
+> ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andersonsps-dsa&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
 
 ###
 
