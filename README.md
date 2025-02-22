@@ -54,6 +54,7 @@
 <p align="left">➲ <strong>Classificação com K-Nearest Neighbors</strong>: Modelo de recomendação de filmes. <a href="https://github.com/andersonsps-dsa/Movie_Recommendation_Model/blob/main/README.md">Ver projeto</a></p>
 <p align="left">➲ <strong>Modelos Preditivos com Regressão OLS e Poisson</strong>: Previsão de demandas adicionais de funcionários. <a href="https://github.com/andersonsps-dsa/Predict_models_additional_employee/blob/main/README.md">Ver projeto</a></p>
 <p align="left">➲ <strong>Dashboard com Streamlit</strong>: Análise de viagens de Uber. <a href="https://github.com/andersonsps-dsa/uber_pickup/blob/main/README.md">Ver projeto</a></p>
+<p align="left">➲ <strong>Agenda de Contatos</strong>: Com funções built-in do python (é possível realizar várias ações: Adicionar, Localizar, Listar, Editar e Remover um contato). <a href="https://github.com/andersonsps-dsa/agenda_de_contatos/blob/main/README.md">Ver projeto</a></p>
 
 
 >  ### Linguagens mais usadas nos projetos:
