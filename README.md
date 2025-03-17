@@ -29,6 +29,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000" height="40" alt="googlecloudplataform logo"  />
+  <img width="12" />
   <img src="https://img.jsdelivr.com/github.com/databricks.png" height="40" alt="databricks logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=0cRqPqlItA0E&format=png&color=000000" height="40" alt="spark logo"  />
